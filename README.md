@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com o objetivo de analisar a importação da comer
 
 O objetivo do projeto foi analisar a importação da comercilização via aérea no período de 2018. Verificando os países que tiveram mais importações (embarques), o volume de produtos importados, excecões onde a entrega de uma remessa foi reprogramada pois o endereço encontrava-se incorreto entre outros motivos vistos na análise dos desvios, o tipo de serviço se foi um envio emergencial ou padrão e a performace da cia aérea. 
 
-- OTIF (On Time In Full) - Indicador de desempenho utilizado para acompanhar a qualidade das entregas dos produtos, tendo com a principal relevância de empre aumentar a satisfação dos clientes em relação ao serviço prestado pela empresa;
+- OTIF (On Time In Full): Indicador de desempenho utilizado para acompanhar a qualidade das entregas dos produtos, tendo com a principal relevância de empre aumentar a satisfação dos clientes em relação ao serviço prestado pela empresa;
 - On Time: Está ligado ao prazo e ao local que foram acordados com o cliente previamente;
 - In Full: Os produtos devem ser entregues dentro das especificações passadas para os clientes no momento da compra (dimensões, quantidades, qualidade, integridade, entre outras).
 
