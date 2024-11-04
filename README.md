@@ -15,7 +15,7 @@ O objetivo do projeto foi analisar a importação da comercialização via aére
 
 # Como este repositório está estruturado
 
-- Veja o dashboard do projeto [Dashboard Comércio Exterior](https://app.powerbi.com/view?r=eyJrIjoiMGExYWI5MjUtZWNiNC00ODk3LWI2YTctODVlNDM3OTA3OWM0IiwidCI6ImY4ODI5MTFhLTQ0OTctNDhmOS1hNjlmLThiZjVkZGUwZjg3OSJ9);
+- Veja o dashboard do projeto [Dashboard Comércio Exterior](https://app.powerbi.com/view?r=eyJrIjoiNTFlMTMyZWMtZWE1Ny00ZjBjLThlYjItYzViZDQxNjQxOGE0IiwidCI6IjIyMzY0MzM3LTNmNmItNGM5Zi04ZWQ4LTNhNWE1YjFiOWE0YiJ9);
 - Veja os dados utilizados [Comex - Dataset](https://github.com/mayajsv/Power-BI/blob/main/Comex%20-%20Dataset.xlsx).
 
 # Tecnologias
